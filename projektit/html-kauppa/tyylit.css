@@ -58,7 +58,7 @@ a:any-link {
 
 @font-face {
     font-family: 'Open Sans';
-    src: url('OpenSans-VariableFont_wdth\,wght.ttf');
+    src: url('./OpenSans.ttf');
 }
 
 .projekti-banneri {
